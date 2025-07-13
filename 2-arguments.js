@@ -8,5 +8,5 @@ if (sizeOfArguments <= 2) {
 } else {
   console.log("Arguments found");
 }
-// This code checks the number of command line arguments passed to the script.
-// It prints "No argument" if none are provided, "Argument found" if one is provided, and "Arguments found" if more than one argument is given.
+
+// This code checks the number of command line arguments passed to the script.    
